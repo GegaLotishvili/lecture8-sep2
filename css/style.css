@@ -7,7 +7,23 @@
 	margin: 0 auto;
 }
 
+
+.fa-clock {
+	font-size: 60px;
+	color: red;
+}
+
+.fa-compass {
+	font-size: 60px;
+	color: blue;
+}
+
+.fa-compass:hover {
+	color: yellow;
+}
+
 .mshobeli {
+	margin-top: 100px ;
 	width: 100%;
 	height: 500px;
 	border: 2px solid black;
